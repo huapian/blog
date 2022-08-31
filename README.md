@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <a target="_blank" href="https://github.com/X1192176811/blog">
+   <a target="_blank" href="https://github.com/huapian/blog">
       <img src="https://img.shields.io/hexpm/l/plug.svg"/>
       <img src="https://img.shields.io/badge/JDK-1.8+-green.svg"/>
       <img src="https://img.shields.io/badge/springboot-2.4.2.RELEASE-green"/>
@@ -28,15 +28,15 @@
 
 ## 在线地址
 
-**项目链接：** [www.talkxj.com](https://www.talkxj.com)
+**项目链接：** [www.xiaohua.site](https://www.xiaohua.site)
 
 **后台链接：** [admin.talkxj.com](https://admin.talkxj.com)
 
 测试账号：test@qq.com，密码：1234567，可登入后台查看。
 
-**Github地址：** [https://github.com/X1192176811/blog](https://github.com/X1192176811/blog)
+**Github地址：** [https://github.com/huapian/](https://github.com/huapian/)
 
-**Gitee地址：** [https://gitee.com/feng_meiyu/blog](https://gitee.com/feng_meiyu/blog)
+**Gitee地址：** [https://gitee.com/huapian/](https://gitee.com/huapian/)
 
 **在线接口文档地址：** [https://www.talkxj.com/api/doc.html](https://www.talkxj.com/api/doc.html)
 
@@ -170,10 +170,6 @@ blog-springboot
 ## 项目总结
 
 博客作为新手入门项目是十分不错的，项目所用的技术栈覆盖的也比较广，适合初学者学习。主要难点在于权限管理、第三方登录、websocket这块。做的不好的地方请大家见谅，有问题的或者有好的建议可以私聊联系我。
-
-## 交流群
-
-![博客技术交流群聊二维码.png](https://static.talkxj.com/articles/1594437310326.png)
 
 
 
